@@ -1,375 +1,312 @@
-Film,Imdb,Director,Star
-1,80%,Nguyễn Quang Tuyến,Nhật Kim Anh
-2,80%,Nguyễn Quang Tuyến,Đông Dương
-3,80%,Nguyễn Quang Tuyến,Xuân Phúc
-4,80%,Nguyễn Quang Tuyến,Quang Hòa
-5,80%,Nguyễn Quang Tuyến,Lâm Trí
-6,80%,Nguyễn Quang Tuyến,Hoàng Tiến Dũng
-7,80%,Nguyễn Quang Tuyến,Hùng Chilhuyn
-8,79%,Đỗ Nam,Huy Khánh
-9,79%,Đỗ Nam,Quý Bình
-10,79%,Đỗ Nam,Lê Bình
-11,79%,Đỗ Nam,Quỳnh Chi
-12,79%,Đỗ Nam,Anh Thơ
-13,79%,Đỗ Nam,bé Gia Bảo
-14,79%,Đỗ Nam,Trương Thanh Long
-15,79%,Đỗ Nam,Hạnh Thúy
-16,79%,Đỗ Nam,Lê Chi Na
-17,79%,Đỗ Nam,Lan Trinh
-18,50%,Phan Minh,Trương Mỹ Nhân
-19,50%,Phan Minh,Tuấn Trần
-20,50%,Phan Minh,Brian Trần
-21,50%,Phan Minh,Jay Nhân
-22,40%,Han Sang-hee,Chi Pu
-23,40%,Han Sang-hee,San E
-24,40%,Han Sang-hee,Chae Yeon
-25,40%,Han Sang-hee,Jin Ju Hyung
-26,50%,Nguyễn Công Hậu,Sun Wei Lung
-27,50%,Nguyễn Công Hậu,Khả Ngân
-28,50%,Nguyễn Công Hậu,Aki Myung-Hun
-29,50%,Nguyễn Công Hậu,Kha Ly
-30,50%,Nguyễn Công Hậu,Lê Bê La
-31,50%,Nguyễn Công Hậu,Nhất Duy
-32,50%,Nguyễn Công Hậu,Do Tai Wai
-33,50%,Nguyễn Công Hậu,Lu Shi Yong
-34,91%,Đức Thịnh,Trường Giang
-35,91%,Đức Thịnh,Thanh Thúy
-36,91%,Đức Thịnh,Đức Thịnh
-37,91%,Đức Thịnh,Mai Tài Phến
-38,91%,Đức Thịnh,Sam
-39,88%,Nguyễn Hoàng Anh,Jun Phạm
-40,88%,Nguyễn Hoàng Anh,Trung Dân
-41,88%,Nguyễn Hoàng Anh,Hải Triều
-42,88%,Nguyễn Hoàng Anh,Tiến Công
-43,88%,Nguyễn Hoàng Anh,Puka
-44,88%,Nguyễn Hoàng Anh,Ngọc Tưởng
-45,82%,Dustin Nguyễn,Dustin Nguyễn
-46,82%,Dustin Nguyễn,Thu Trang
-47,82%,Dustin Nguyễn,Kiều Minh Tuấn
-48,82%,Dustin Nguyễn,Hoàng Sơn
-49,82%,Dustin Nguyễn,Nam Em
-50,82%,Dustin Nguyễn,Tiểu Bảo Quốc
-51,82%,Dustin Nguyễn,Đại Nghĩa
-52,82%,Dustin Nguyễn,Lê Bình
-53,82%,Dustin Nguyễn,Tiết Cương
-54,60%,Trần Ngọc Giàu,Hoài Linh
-55,60%,Trần Ngọc Giàu,Bạch Công Khanh
-56,60%,Trần Ngọc Giàu,Thanh Vy
-57,60%,Trần Ngọc Giàu,Celina Huỳnh
-58,60%,Trần Ngọc Giàu,Lê Lộc
-59,60%,Trần Ngọc Giàu,Xuân Nghị
-60,60%,Trần Ngọc Giàu,Tấn Beo
-61,60%,Trần Ngọc Giàu,Trung Dân
-62,60%,Trần Ngọc Giàu,Bella Mai
-63,60%,Trần Ngọc Giàu,Hứa Minh Đạt
-64,60%,Trần Ngọc Giàu,Thân Thuý Hà
-65,60%,Trần Ngọc Giàu,Tuấn Dũng
-66,29%,Nguyễn Hà,Trương Mỹ Nhân
-67,29%,Nguyễn Hà,Kent Phạm Tùng Anh
-68,29%,Nguyễn Hà,Xuân Phúc
-69,29%,Nguyễn Hà,Ngọc Châu
-70,93%,Nguyễn Quang Dũng,Thanh Hằng
-71,93%,Nguyễn Quang Dũng,Jun Vũ
-72,93%,Nguyễn Quang Dũng,Anh Thư
-73,93%,Nguyễn Quang Dũng,Mỹ Duyên
-74,93%,Nguyễn Quang Dũng,Hoàng Oanh
-75,93%,Nguyễn Quang Dũng,Trịnh Thảo
-76,93%,Nguyễn Quang Dũng,Hồng Ánh
-77,93%,Nguyễn Quang Dũng,Hoàng Yến Chibi
-78,93%,Nguyễn Quang Dũng,Mỹ Uyên
-79,93%,Nguyễn Quang Dũng,Khổng Tú Quỳnh
-80,93%,Nguyễn Quang Dũng,Tuyền Mập
-81,93%,Nguyễn Quang Dũng,Minh Thảo
-82,50%,"
-
-
-                                                Chấm điểm
-                                            
-",No actor
-83,82%,Võ Thanh Hòa,Trịnh Thăng Bình
-84,82%,Võ Thanh Hòa,Kiều Trinh Xíu
-85,82%,Võ Thanh Hòa,Coca Hoàng Gia Bảo
-86,82%,Võ Thanh Hòa,Hạ Vi
-87,82%,Võ Thanh Hòa,Hoàng Rapper
-88,82%,Võ Thanh Hòa,Hoàng Sơn
-89,82%,Võ Thanh Hòa,Tùng Leo
-90,82%,Võ Thanh Hòa,Võ Cảnh
-91,82%,Võ Thanh Hòa,Hoàng Phi
-92,82%,Võ Thanh Hòa,Phương Trinh Jolie
-93,82%,Võ Thanh Hòa,Chu Diệp Anh
-94,82%,Võ Thanh Hòa,Lou Hoàng
-95,47%,Văn Công Viễn,Ngọc Thanh Tâm
-96,47%,Văn Công Viễn,Hoài Lâm
-97,47%,Văn Công Viễn,Trang Trần
-98,47%,Văn Công Viễn,Đàm Vĩnh Hưng
-99,47%,Văn Công Viễn,Thúy Vy
-100,50%,Trương Quang Thịnh,Quỳnh Hương Venus
-101,50%,Trương Quang Thịnh,Huỳnh Hồng Loan
-102,50%,Trương Quang Thịnh,Gia Linh
-103,50%,Trương Quang Thịnh,Phạm Hoàng Nguyên
-104,50%,Trương Quang Thịnh,Gin Tuấn Kiệt
-105,50%,Trương Quang Thịnh,Hồng Vân
-106,50%,Trương Quang Thịnh,Cát Tường
-107,50%,Trương Quang Thịnh,Kiều Minh Tuấn
-108,81%,Lý Hải,Kiều Minh Tuấn
-109,81%,Lý Hải,Lý Hải
-110,81%,Lý Hải,Huy Khánh
-111,81%,Lý Hải,Song Luân
-112,81%,Lý Hải,Nene
-113,81%,Lý Hải,Tú Trinh
-114,81%,Lý Hải,Tiết Cương
-115,81%,Lý Hải,Cát Phượng
-116,81%,Lý Hải,Phương Bình
-117,81%,Lý Hải,Diệu Đức
-118,81%,Lý Hải,Hoàng Mèo
-119,81%,Lý Hải,Thanh Tân
-120,81%,Lý Hải,Lương Mỹ
-121,81%,Lý Hải,Phi Điểu
-122,81%,Vũ Ngọc Phượng,Jun Phạm
-123,81%,Vũ Ngọc Phượng,Khả Ngân
-124,81%,Vũ Ngọc Phượng,Lê Tam Triều Dâng
-125,81%,Vũ Ngọc Phượng,B Trần
-126,81%,Vũ Ngọc Phượng,Gin Tuấn Kiệt
-127,81%,Vũ Ngọc Phượng,NSƯT Mỹ Uyên
-128,81%,Vũ Ngọc Phượng,Chiều Xuân
-129,74%,Robie Trường,Nhan Phúc Vinh
-130,74%,Robie Trường,Hoàng Phi
-131,74%,Robie Trường,Hiếu Nguyễn
-132,74%,Robie Trường,Hùng Chilhyun
-133,74%,Robie Trường,Rima Thanh Vy
-134,74%,Robie Trường,Thanh Tú
-135,74%,Robie Trường,Lâm Thắng
-136,74%,Robie Trường,Võ Hoài Nam
-137,74%,Robie Trường,NSUT Công Ninh
-138,74%,Robie Trường,Trọng Hải
-139,50%,Nguyễn Ngọc Hùng,Diệu Nhi
-140,50%,Nguyễn Ngọc Hùng,Thuận Nguyễn
-141,50%,Nguyễn Ngọc Hùng,Khả Như
-142,50%,Nguyễn Ngọc Hùng,Khương Ngọc
-143,50%,Nguyễn Ngọc Hùng,La Thành
-144,50%,Nguyễn Ngọc Hùng,Gia Bảo
-145,50%,Nguyễn Ngọc Hùng,Đỗ Duy Nam
-146,50%,Nguyễn Ngọc Hùng,Hải Triều
-147,50%,Nguyễn Ngọc Hùng,Tiểu Bảo Quốc
-148,50%,Nguyễn Ngọc Hùng,Trung Dân
-149,87%,Cao Thúy Nhi,Phương Anh Đào
-150,87%,Cao Thúy Nhi,Noriki Takimoto
-151,87%,Cao Thúy Nhi,Norihiko Takimoto
-152,87%,Cao Thúy Nhi,chú chó Hana
-153,87%,Cao Thúy Nhi,Ben Phạm
-154,87%,Cao Thúy Nhi,Sayaka Mitsuta
-155,87%,Cao Thúy Nhi,Mizuki Miyauchi
-156,87%,Cao Thúy Nhi,Akira Hatsusegawa
-157,87%,Cao Thúy Nhi,Diễm Thi
-158,87%,Cao Thúy Nhi,Khánh Ngân
-159,87%,Cao Thúy Nhi,Takafumi Akutsu
-160,87%,Cao Thúy Nhi,NSUT Công Ninh
-161,68%,Kawaii Nguyễn Tuấn Anh,Mai Tài Phến
-162,68%,Kawaii Nguyễn Tuấn Anh,Lê Thùy LInh
-163,68%,Kawaii Nguyễn Tuấn Anh,Phương Anh Đào
-164,68%,Kawaii Nguyễn Tuấn Anh,Tiến Vũ
-165,68%,Kawaii Nguyễn Tuấn Anh,Misoa
-166,68%,Kawaii Nguyễn Tuấn Anh,Trang Hý
-167,68%,Kawaii Nguyễn Tuấn Anh,Đan Trường
-168,68%,Kawaii Nguyễn Tuấn Anh,Việt Hương
-169,68%,Kawaii Nguyễn Tuấn Anh,Hương Tràm
-170,68%,Kawaii Nguyễn Tuấn Anh,NSUT Công Ninh
-171,68%,Kawaii Nguyễn Tuấn Anh,Trung Dân
-172,83%,Hứa Vĩ Văn,Hứa Vĩ Văn
-173,83%,Hứa Vĩ Văn,Diễm My 9x
-174,83%,Hứa Vĩ Văn,Kinh Quốc
-175,83%,Hứa Vĩ Văn,Nguyễn Chánh Tín
-176,83%,Hứa Vĩ Văn,Thương Tín
-177,83%,Hứa Vĩ Văn,NSUT Công Ninh
-178,83%,Hứa Vĩ Văn,Quang Sự
-179,25%,Vĩnh Thuyên,Minh Luân
-180,25%,Vĩnh Thuyên,Vĩnh Thuyên Kim
-181,25%,Vĩnh Thuyên,Hứa Minh Đạt
-182,25%,Vĩnh Thuyên,Mạc Văn Khoa
-183,25%,Vĩnh Thuyên,Lâm Vỹ Dạ
-184,36%,Duy Joseph,Wean Lê
-185,36%,Duy Joseph,Lê Hạ Anh
-186,36%,Duy Joseph,Nhan Phúc Vinh
-187,36%,Duy Joseph,Ngọc Thanh Tâm
-188,36%,Duy Joseph,Quỳnh Chi
-189,36%,Duy Joseph,Gin Tuấn Kiệt
-190,36%,Duy Joseph,Tùng Min
-191,73%,Lương Trung Tín,ST 365
-192,73%,Lương Trung Tín,Jang Mi
-193,73%,Lương Trung Tín,POM
-194,73%,Lương Trung Tín,Tiểu Bảo Quốc
-195,100%,Leon Quang Lê,Isaac
-196,100%,Leon Quang Lê,Liên Bỉnh Phát
-197,100%,Leon Quang Lê,Tú Quyên
-198,100%,Leon Quang Lê,Thanh Tú
-199,100%,Leon Quang Lê,Kiều Trinh
-200,95%,Charlie Nguyễn,Thái Hoà
-201,95%,Charlie Nguyễn,Phương Anh Đào
-202,95%,Charlie Nguyễn,Thanh Trúc
-203,95%,Charlie Nguyễn,Hứa Vĩ Văn
-204,95%,Charlie Nguyễn,Vân Trang
-205,95%,Charlie Nguyễn,Hồng Hạnh
-206,95%,Charlie Nguyễn,Diễm My
-207,95%,Charlie Nguyễn,Trung Dũng
-208,92%,Thắng Vũ,Isaac
-209,92%,Thắng Vũ,Phan Ngân
-210,92%,Thắng Vũ,Suni Hạ Linh
-211,92%,Thắng Vũ,Chí Tài
-212,92%,Thắng Vũ,Phi Phụng
-213,92%,Thắng Vũ,Hoàng Phi
-214,92%,Thắng Vũ,Puka
-215,93%,Võ Thanh Hòa,Nabi Nhã Phương
-216,93%,Võ Thanh Hòa,bé Kim Thư
-217,93%,Võ Thanh Hòa,La Thành
-218,93%,Võ Thanh Hòa,Việt Hương
-219,93%,Võ Thanh Hòa,Ngô Kiến Huy
-220,93%,Võ Thanh Hòa,Trấn Thành
-221,93%,Võ Thanh Hòa,Mai Bảo Ngọc
-222,93%,Võ Thanh Hòa,Huỳnh Lập
-223,93%,Võ Thanh Hòa,Hứa Minh Đạt
-224,93%,Võ Thanh Hòa,Khả Như
-225,91%,Nguyễn Thành Vinh,Thúy Vân
-226,91%,Nguyễn Thành Vinh,Đình Quân
-227,91%,Nguyễn Thành Vinh,Nguyễn Anh Tú
-228,91%,Nguyễn Thành Vinh,NSUT Thanh Hằng
-229,91%,Nguyễn Thành Vinh,Đàm Phương Linh
-230,91%,Nguyễn Thành Vinh,NSND Ngọc Giàu
-231,91%,Nguyễn Thành Vinh,NSUT Thoại Mỹ
-232,91%,Nguyễn Thành Vinh,NSƯT Thanh Nam
-233,91%,Nguyễn Thành Vinh,Cẩm Hà
-234,91%,Nguyễn Thành Vinh,Lâm Thắng
-235,91%,Nguyễn Thành Vinh,Hồng Thanh
-236,91%,Nguyễn Thành Vinh,Phát La
-237,91%,Nguyễn Thành Vinh,Hamiza
-238,91%,Nguyễn Thành Vinh,Long Đẹp Trai
-239,91%,Nguyễn Thành Vinh,Sỹ Toàn
-240,10%,Đinh Tuấn Vũ,An Nguy
-241,10%,Đinh Tuấn Vũ,Kiều Minh Tuấn
-242,10%,Đinh Tuấn Vũ,Hữu Khang
-243,10%,Đinh Tuấn Vũ,Will 365
-244,10%,Đinh Tuấn Vũ,Chu Diệp Anh
-245,10%,Đinh Tuấn Vũ,Lilly Nguyễn
-246,77%,Trần Nhân Kiên,Hoàng Yến Chibi
-247,77%,Trần Nhân Kiên,Quang Đăng
-248,77%,Trần Nhân Kiên,Trương Thanh Long
-249,50%,Swann Dubus,Anh Phong le
-250,50%,Swann Dubus,Lê Quốc Phong
-251,67%,Nguyễn Hoàng Duy,Ngân Khánh
-252,67%,Nguyễn Hoàng Duy,Song Luân
-253,67%,Nguyễn Hoàng Duy,Sĩ Thanh
-254,67%,Nguyễn Hoàng Duy,Quang Minh
-255,67%,Nguyễn Hoàng Duy,Hồng Đào
-256,67%,Nguyễn Hoàng Duy,Liên Bỉnh Phát
-257,67%,Victor Vũ,Quách Ngọc Ngoan
-258,67%,Victor Vũ,Ngọc Diệp
-259,67%,Victor Vũ,Jun Vũ
-260,67%,Victor Vũ,Thanh Tú
-261,67%,Victor Vũ,Cường Seven
-262,67%,Victor Vũ,Trương Thế Vinh
-263,67%,Victor Vũ,Chiều Xuân
-264,67%,Victor Vũ,Bùi Bài Bình
-265,67%,Victor Vũ,Vũ Tuấn Việt
-266,67%,Victor Vũ,Francois Negret
-267,83%,Roland Nguyễn Nhân,Thanh Duy
-268,83%,Roland Nguyễn Nhân,Thanh Tú
-269,83%,Roland Nguyễn Nhân,Lý Bình
-270,83%,Roland Nguyễn Nhân,Đàm Phương Linh
-271,83%,Roland Nguyễn Nhân,Nguyễn Anh Tú
-272,50%,"
-
-
-                                                Chấm điểm
-                                            
-",Tùng Maru
-273,50%,"
-
-
-                                                Chấm điểm
-                                            
-",Lâm Văn Quốc
-274,50%,"
-
-
-                                                Chấm điểm
-                                            
-",Nguyễn Gia Linh
-275,50%,"
-
-
-                                                Chấm điểm
-                                            
-",Võ Ngọc Diệu Minh
-276,50%,"
-
-
-                                                Chấm điểm
-                                            
-",Lê Ngọc Phương Quỳnh
-277,50%,"
-
-
-                                                Chấm điểm
-                                            
-",Hứa Nhật Khánh Uyên
-278,50%,"
-
-
-                                                Chấm điểm
-                                            
-",Mai Ngô
-279,50%,"
-
-
-                                                Chấm điểm
-                                            
-",Quốc Thái
-280,50%,"
-
-
-                                                Chấm điểm
-                                            
-",Nguyễn Anh Tú
-281,50%,"
-
-
-                                                Chấm điểm
-                                            
-",Bích Ngọc
-282,50%,"
-
-
-                                                Chấm điểm
-                                            
-",Khắc Minh
-283,50%,Thiên A. Phạm,Thiên Nguyễn
-284,50%,Thiên A. Phạm,Long Nguyen
-285,50%,"
-
-
-",No actor
-286,50%,Cường Ngô,Đan Nguyên
-287,50%,Cường Ngô,Marcus Guilhem
-288,50%,Cường Ngô,Lilly Nguyễn
-289,50%,Cường Ngô,Lâm Vissay
-290,50%,Namcito,Ninh Dương Lan Ngọc
-291,50%,Namcito,Phương Lan
-292,50%,Namcito,Thùy Anh
-293,50%,Namcito,Thoại Tiên
-294,50%,Namcito,Diễm My
-295,50%,Namcito,Hứa Minh Đạt
-296,50%,Namcito,Lê Xuân Tiền
-297,50%,Ken Ochiai,Thái Hoà
-298,50%,Ken Ochiai,Kaity Nguyễn
-299,50%,Ken Ochiai,Kathy Uyên
-300,50%,Ken Ochiai,Vân Trang
-301,50%,Ken Ochiai,Trang Hý
-302,50%,Ken Ochiai,Trịnh Thảo
-303,50%,Ken Ochiai,Huy Khánh
-304,50%,Ken Ochiai,Chí Tài
-305,50%,Ken Ochiai,NSUT Thành Lộc
-306,50%,Ken Ochiai,Hồng Vân
-307,50%,Ken Ochiai,Tuyền Mập
-308,50%,Ken Ochiai,Chí Tâm
-309,50%,Ken Ochiai,Tùng Leo
-310,50%,Ken Ochiai,Lê Bình
-311,50%,Hàm Trần,Hoàng Yến Chibi
+Imdb,Director,Star
+80%,Nguyễn Quang Tuyến,Nhật Kim Anh
+80%,Nguyễn Quang Tuyến,Đông Dương
+80%,Nguyễn Quang Tuyến,Xuân Phúc
+80%,Nguyễn Quang Tuyến,Quang Hòa
+80%,Nguyễn Quang Tuyến,Lâm Trí
+80%,Nguyễn Quang Tuyến,Hoàng Tiến Dũng
+80%,Nguyễn Quang Tuyến,Hùng Chilhuyn
+79%,Đỗ Nam,Huy Khánh
+79%,Đỗ Nam,Quý Bình
+79%,Đỗ Nam,Lê Bình
+79%,Đỗ Nam,Quỳnh Chi
+79%,Đỗ Nam,Anh Thơ
+79%,Đỗ Nam,bé Gia Bảo
+79%,Đỗ Nam,Trương Thanh Long
+79%,Đỗ Nam,Hạnh Thúy
+79%,Đỗ Nam,Lê Chi Na
+79%,Đỗ Nam,Lan Trinh
+50%,Phan Minh,Trương Mỹ Nhân
+50%,Phan Minh,Tuấn Trần
+50%,Phan Minh,Brian Trần
+50%,Phan Minh,Jay Nhân
+40%,Han Sang-hee,Chi Pu
+40%,Han Sang-hee,San E
+40%,Han Sang-hee,Chae Yeon
+40%,Han Sang-hee,Jin Ju Hyung
+50%,Tsai Lex,Sun Wei Lung
+50%,Tsai Lex,Khả Ngân
+50%,Tsai Lex,Aki Myung-Hun
+50%,Tsai Lex,Kha Ly
+50%,Tsai Lex,Lê Bê La
+50%,Tsai Lex,Nhất Duy
+50%,Tsai Lex,Do Tai Wai
+50%,Tsai Lex,Lu Shi Yong
+91%,Đức Thịnh,Trường Giang
+91%,Đức Thịnh,Thanh Thúy
+91%,Đức Thịnh,Đức Thịnh
+91%,Đức Thịnh,Mai Tài Phến
+91%,Đức Thịnh,Sam
+88%,Nguyễn Hoàng Anh,Jun Phạm
+88%,Nguyễn Hoàng Anh,Trung Dân
+88%,Nguyễn Hoàng Anh,Hải Triều
+88%,Nguyễn Hoàng Anh,Tiến Công
+88%,Nguyễn Hoàng Anh,Puka
+88%,Nguyễn Hoàng Anh,Ngọc Tưởng
+82%,Dustin Nguyễn,Dustin Nguyễn
+82%,Dustin Nguyễn,Thu Trang
+82%,Dustin Nguyễn,Kiều Minh Tuấn
+82%,Dustin Nguyễn,Hoàng Sơn
+82%,Dustin Nguyễn,Nam Em
+82%,Dustin Nguyễn,Tiểu Bảo Quốc
+82%,Dustin Nguyễn,Đại Nghĩa
+82%,Dustin Nguyễn,Lê Bình
+82%,Dustin Nguyễn,Tiết Cương
+60%,Trần Ngọc Giàu,Hoài Linh
+60%,Trần Ngọc Giàu,Bạch Công Khanh
+60%,Trần Ngọc Giàu,Thanh Vy
+60%,Trần Ngọc Giàu,Celina Huỳnh
+60%,Trần Ngọc Giàu,Lê Lộc
+60%,Trần Ngọc Giàu,Xuân Nghị
+60%,Trần Ngọc Giàu,Tấn Beo
+60%,Trần Ngọc Giàu,Trung Dân
+60%,Trần Ngọc Giàu,Bella Mai
+60%,Trần Ngọc Giàu,Hứa Minh Đạt
+60%,Trần Ngọc Giàu,Thân Thuý Hà
+60%,Trần Ngọc Giàu,Tuấn Dũng
+29%,Nguyễn Hà,Trương Mỹ Nhân
+29%,Nguyễn Hà,Kent Phạm Tùng Anh
+29%,Nguyễn Hà,Xuân Phúc
+29%,Nguyễn Hà,Ngọc Châu
+93%,Nguyễn Quang Dũng,Thanh Hằng
+93%,Nguyễn Quang Dũng,Jun Vũ
+93%,Nguyễn Quang Dũng,Anh Thư
+93%,Nguyễn Quang Dũng,Mỹ Duyên
+93%,Nguyễn Quang Dũng,Hoàng Oanh
+93%,Nguyễn Quang Dũng,Trịnh Thảo
+93%,Nguyễn Quang Dũng,Hồng Ánh
+93%,Nguyễn Quang Dũng,Hoàng Yến Chibi
+93%,Nguyễn Quang Dũng,Mỹ Uyên
+93%,Nguyễn Quang Dũng,Khổng Tú Quỳnh
+93%,Nguyễn Quang Dũng,Tuyền Mập
+93%,Nguyễn Quang Dũng,Minh Thảo
+50%,Lâm Tư,No Actor
+82%,Võ Thanh Hòa,Trịnh Thăng Bình
+82%,Võ Thanh Hòa,Kiều Trinh Xíu
+82%,Võ Thanh Hòa,Coca Hoàng Gia Bảo
+82%,Võ Thanh Hòa,Hạ Vi
+82%,Võ Thanh Hòa,Hoàng Rapper
+82%,Võ Thanh Hòa,Hoàng Sơn
+82%,Võ Thanh Hòa,Tùng Leo
+82%,Võ Thanh Hòa,Võ Cảnh
+82%,Võ Thanh Hòa,Hoàng Phi
+82%,Võ Thanh Hòa,Phương Trinh Jolie
+82%,Võ Thanh Hòa,Chu Diệp Anh
+82%,Võ Thanh Hòa,Lou Hoàng
+47%,Văn Công Viễn,Ngọc Thanh Tâm
+47%,Văn Công Viễn,Hoài Lâm
+47%,Văn Công Viễn,Trang Trần
+47%,Văn Công Viễn,Đàm Vĩnh Hưng
+47%,Văn Công Viễn,Thúy Vy
+50%,Trương Quang Thịnh,Quỳnh Hương Venus
+50%,Trương Quang Thịnh,Huỳnh Hồng Loan
+50%,Trương Quang Thịnh,Gia Linh
+50%,Trương Quang Thịnh,Phạm Hoàng Nguyên
+50%,Trương Quang Thịnh,Gin Tuấn Kiệt
+50%,Trương Quang Thịnh,Hồng Vân
+50%,Trương Quang Thịnh,Cát Tường
+50%,Trương Quang Thịnh,Kiều Minh Tuấn
+81%,Lý Hải,Kiều Minh Tuấn
+81%,Lý Hải,Lý Hải
+81%,Lý Hải,Huy Khánh
+81%,Lý Hải,Song Luân
+81%,Lý Hải,Nene
+81%,Lý Hải,Tú Trinh
+81%,Lý Hải,Tiết Cương
+81%,Lý Hải,Cát Phượng
+81%,Lý Hải,Phương Bình
+81%,Lý Hải,Diệu Đức
+81%,Lý Hải,Hoàng Mèo
+81%,Lý Hải,Thanh Tân
+81%,Lý Hải,Lương Mỹ
+81%,Lý Hải,Phi Điểu
+81%,Vũ Ngọc Phượng,Jun Phạm
+81%,Vũ Ngọc Phượng,Khả Ngân
+81%,Vũ Ngọc Phượng,Lê Tam Triều Dâng
+81%,Vũ Ngọc Phượng,B Trần
+81%,Vũ Ngọc Phượng,Gin Tuấn Kiệt
+81%,Vũ Ngọc Phượng,NSƯT Mỹ Uyên
+81%,Vũ Ngọc Phượng,Chiều Xuân
+74%,Robie Trường,Nhan Phúc Vinh
+74%,Robie Trường,Hoàng Phi
+74%,Robie Trường,Hiếu Nguyễn
+74%,Robie Trường,Hùng Chilhyun
+74%,Robie Trường,Rima Thanh Vy
+74%,Robie Trường,Thanh Tú
+74%,Robie Trường,Lâm Thắng
+74%,Robie Trường,Võ Hoài Nam
+74%,Robie Trường,NSUT Công Ninh
+74%,Robie Trường,Trọng Hải
+50%,Nguyễn Ngọc Hùng,Diệu Nhi
+50%,Nguyễn Ngọc Hùng,Thuận Nguyễn
+50%,Nguyễn Ngọc Hùng,Khả Như
+50%,Nguyễn Ngọc Hùng,Khương Ngọc
+50%,Nguyễn Ngọc Hùng,La Thành
+50%,Nguyễn Ngọc Hùng,Gia Bảo
+50%,Nguyễn Ngọc Hùng,Đỗ Duy Nam
+50%,Nguyễn Ngọc Hùng,Hải Triều
+50%,Nguyễn Ngọc Hùng,Tiểu Bảo Quốc
+50%,Nguyễn Ngọc Hùng,Trung Dân
+87%,Cao Thúy Nhi,Phương Anh Đào
+87%,Cao Thúy Nhi,Noriki Takimoto
+87%,Cao Thúy Nhi,Norihiko Takimoto
+87%,Cao Thúy Nhi,chú chó Hana
+87%,Cao Thúy Nhi,Ben Phạm
+87%,Cao Thúy Nhi,Sayaka Mitsuta
+87%,Cao Thúy Nhi,Mizuki Miyauchi
+87%,Cao Thúy Nhi,Akira Hatsusegawa
+87%,Cao Thúy Nhi,Diễm Thi
+87%,Cao Thúy Nhi,Khánh Ngân
+87%,Cao Thúy Nhi,Takafumi Akutsu
+87%,Cao Thúy Nhi,NSUT Công Ninh
+68%,Kawaii Nguyễn Tuấn Anh,Mai Tài Phến
+68%,Kawaii Nguyễn Tuấn Anh,Lê Thùy LInh
+68%,Kawaii Nguyễn Tuấn Anh,Phương Anh Đào
+68%,Kawaii Nguyễn Tuấn Anh,Tiến Vũ
+68%,Kawaii Nguyễn Tuấn Anh,Misoa
+68%,Kawaii Nguyễn Tuấn Anh,Trang Hý
+68%,Kawaii Nguyễn Tuấn Anh,Đan Trường
+68%,Kawaii Nguyễn Tuấn Anh,Việt Hương
+68%,Kawaii Nguyễn Tuấn Anh,Hương Tràm
+68%,Kawaii Nguyễn Tuấn Anh,NSUT Công Ninh
+68%,Kawaii Nguyễn Tuấn Anh,Trung Dân
+83%,Hứa Vĩ Văn,Hứa Vĩ Văn
+83%,Hứa Vĩ Văn,Diễm My 9x
+83%,Hứa Vĩ Văn,Kinh Quốc
+83%,Hứa Vĩ Văn,Nguyễn Chánh Tín
+83%,Hứa Vĩ Văn,Thương Tín
+83%,Hứa Vĩ Văn,NSUT Công Ninh
+83%,Hứa Vĩ Văn,Quang Sự
+25%,Vĩnh Thuyên,Minh Luân
+25%,Vĩnh Thuyên,Vĩnh Thuyên Kim
+25%,Vĩnh Thuyên,Hứa Minh Đạt
+25%,Vĩnh Thuyên,Mạc Văn Khoa
+25%,Vĩnh Thuyên,Lâm Vỹ Dạ
+36%,Duy Joseph,Wean Lê
+36%,Duy Joseph,Lê Hạ Anh
+36%,Duy Joseph,Nhan Phúc Vinh
+36%,Duy Joseph,Ngọc Thanh Tâm
+36%,Duy Joseph,Quỳnh Chi
+36%,Duy Joseph,Gin Tuấn Kiệt
+36%,Duy Joseph,Tùng Min
+73%,Lương Trung Tín,ST 365
+73%,Lương Trung Tín,Jang Mi
+73%,Lương Trung Tín,POM
+73%,Lương Trung Tín,Tiểu Bảo Quốc
+100%,Leon Quang Lê,Isaac
+100%,Leon Quang Lê,Liên Bỉnh Phát
+100%,Leon Quang Lê,Tú Quyên
+100%,Leon Quang Lê,Thanh Tú
+100%,Leon Quang Lê,Kiều Trinh
+95%,Charlie Nguyễn,Thái Hoà
+95%,Charlie Nguyễn,Phương Anh Đào
+95%,Charlie Nguyễn,Thanh Trúc
+95%,Charlie Nguyễn,Hứa Vĩ Văn
+95%,Charlie Nguyễn,Vân Trang
+95%,Charlie Nguyễn,Hồng Hạnh
+95%,Charlie Nguyễn,Diễm My
+95%,Charlie Nguyễn,Trung Dũng
+92%,Thắng Vũ,Isaac
+92%,Thắng Vũ,Phan Ngân
+92%,Thắng Vũ,Suni Hạ Linh
+92%,Thắng Vũ,Chí Tài
+92%,Thắng Vũ,Phi Phụng
+92%,Thắng Vũ,Hoàng Phi
+92%,Thắng Vũ,Puka
+93%,Võ Thanh Hòa,Nabi Nhã Phương
+93%,Võ Thanh Hòa,bé Kim Thư
+93%,Võ Thanh Hòa,La Thành
+93%,Võ Thanh Hòa,Việt Hương
+93%,Võ Thanh Hòa,Ngô Kiến Huy
+93%,Võ Thanh Hòa,Trấn Thành
+93%,Võ Thanh Hòa,Mai Bảo Ngọc
+93%,Võ Thanh Hòa,Huỳnh Lập
+93%,Võ Thanh Hòa,Hứa Minh Đạt
+93%,Võ Thanh Hòa,Khả Như
+91%,Nguyễn Thành Vinh,Thúy Vân
+91%,Nguyễn Thành Vinh,Đình Quân
+91%,Nguyễn Thành Vinh,Nguyễn Anh Tú
+91%,Nguyễn Thành Vinh,NSUT Thanh Hằng
+91%,Nguyễn Thành Vinh,Đàm Phương Linh
+91%,Nguyễn Thành Vinh,NSND Ngọc Giàu
+91%,Nguyễn Thành Vinh,NSUT Thoại Mỹ
+91%,Nguyễn Thành Vinh,NSƯT Thanh Nam
+91%,Nguyễn Thành Vinh,Cẩm Hà
+91%,Nguyễn Thành Vinh,Lâm Thắng
+91%,Nguyễn Thành Vinh,Hồng Thanh
+91%,Nguyễn Thành Vinh,Phát La
+91%,Nguyễn Thành Vinh,Hamiza
+91%,Nguyễn Thành Vinh,Long Đẹp Trai
+91%,Nguyễn Thành Vinh,Sỹ Toàn
+10%,Đinh Tuấn Vũ,An Nguy
+10%,Đinh Tuấn Vũ,Kiều Minh Tuấn
+10%,Đinh Tuấn Vũ,Hữu Khang
+10%,Đinh Tuấn Vũ,Will 365
+10%,Đinh Tuấn Vũ,Chu Diệp Anh
+10%,Đinh Tuấn Vũ,Lilly Nguyễn
+77%,Trần Nhân Kiên,Hoàng Yến Chibi
+77%,Trần Nhân Kiên,Quang Đăng
+77%,Trần Nhân Kiên,Trương Thanh Long
+50%,Swann Dubus,Anh Phong le
+50%,Swann Dubus,Lê Quốc Phong
+67%,Nguyễn Hoàng Duy,Ngân Khánh
+67%,Nguyễn Hoàng Duy,Song Luân
+67%,Nguyễn Hoàng Duy,Sĩ Thanh
+67%,Nguyễn Hoàng Duy,Quang Minh
+67%,Nguyễn Hoàng Duy,Hồng Đào
+67%,Nguyễn Hoàng Duy,Liên Bỉnh Phát
+71%,Victor Vũ,Quách Ngọc Ngoan
+71%,Victor Vũ,Ngọc Diệp
+71%,Victor Vũ,Jun Vũ
+71%,Victor Vũ,Thanh Tú
+71%,Victor Vũ,Cường Seven
+71%,Victor Vũ,Trương Thế Vinh
+71%,Victor Vũ,Chiều Xuân
+71%,Victor Vũ,Bùi Bài Bình
+71%,Victor Vũ,Vũ Tuấn Việt
+71%,Victor Vũ,Francois Negret
+80%,Roland Nguyễn Nhân,Thanh Duy
+80%,Roland Nguyễn Nhân,Thanh Tú
+80%,Roland Nguyễn Nhân,Lý Bình
+80%,Roland Nguyễn Nhân,Đàm Phương Linh
+80%,Roland Nguyễn Nhân,Nguyễn Anh Tú
+50%,,Tùng Maru
+50%,,Lâm Văn Quốc
+50%,,Nguyễn Gia Linh
+50%,,Võ Ngọc Diệu Minh
+50%,,Lê Ngọc Phương Quỳnh
+50%,,Hứa Nhật Khánh Uyên
+50%,,Mai Ngô
+50%,,Quốc Thái
+50%,,Nguyễn Anh Tú
+50%,,Bích Ngọc
+50%,,Khắc Minh
+50%,Nguyễn Đức Minh,Thiên Nguyễn
+50%,Nguyễn Đức Minh,Long Nguyen
+50%,,No Actor
+50%,Cường Ngô,Đan Nguyên
+50%,Cường Ngô,Marcus Guilhem
+50%,Cường Ngô,Lilly Nguyễn
+50%,Cường Ngô,Lâm Vissay
+50%,Bảo Nhân,Ninh Dương Lan Ngọc
+50%,Bảo Nhân,Phương Lan
+50%,Bảo Nhân,Thùy Anh
+50%,Bảo Nhân,Thoại Tiên
+50%,Bảo Nhân,Diễm My
+50%,Bảo Nhân,Hứa Minh Đạt
+50%,Bảo Nhân,Lê Xuân Tiền
+50%,Ken Ochiai,Thái Hoà
+50%,Ken Ochiai,Kaity Nguyễn
+50%,Ken Ochiai,Kathy Uyên
+50%,Ken Ochiai,Vân Trang
+50%,Ken Ochiai,Trang Hý
+50%,Ken Ochiai,Trịnh Thảo
+50%,Ken Ochiai,Huy Khánh
+50%,Ken Ochiai,Chí Tài
+50%,Ken Ochiai,NSUT Thành Lộc
+50%,Ken Ochiai,Hồng Vân
+50%,Ken Ochiai,Tuyền Mập
+50%,Ken Ochiai,Chí Tâm
+50%,Ken Ochiai,Tùng Leo
+50%,Ken Ochiai,Lê Bình
+50%,Hàm Trần,Hoàng Yến Chibi
